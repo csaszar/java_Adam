@@ -1,6 +1,6 @@
 
 public class ChangeWords {
-	
+
 	String[][] Words = {{"Ádám, ", "Fiam, ", "Ádi, ", "Figyelj, "}, 
 						{"miért nem ", "miért ", "minek ", "most meg miért "}, 
 						{"bámulod a gépet?","tanulsz?", "dolgozol?", "segítesz?", "csinálsz valamit?", "figyelsz?"}};
